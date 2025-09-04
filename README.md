@@ -74,10 +74,6 @@ Key dependencies include:
 - sentence-transformers: Text embedding generation
 - PyPDF2, python-docx: Document processing
 
-## License
-
-[Specify your license here]
-
 ## Support
 
 For support or feature requests, please open an issue in the repository.
